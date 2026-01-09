@@ -36,4 +36,3 @@ To integrate the waitlist form with a real backend:
 ## Browser Support
 
 Works on all modern browsers (Chrome, Firefox, Safari, Edge).
-
